@@ -48,7 +48,3 @@ JSON contains the destination set, ports and timestamped results. CSV contains `
 | `error` | Connection failed; detail records the operating-system error |
 
 A failure or timeout alone does not establish that a port is closed or filtered. Scan results are observations, not vulnerability findings. Output and checkpoints contain network inventory information; store and share them accordingly.
-
-## GitHub
-
-This folder is ready to become its own repository. Choose a license before publishing. A GitHub Actions workflow runs tests and produces a Windows executable artifact for each push and pull request. Download artifacts only from trusted workflow runs. No repository is created or published automatically.
