@@ -1,0 +1,4 @@
+*.exe
+slowport-state.json
+slowport-results.csv
+*.test
